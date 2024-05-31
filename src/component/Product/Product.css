@@ -1,0 +1,27 @@
+.product {
+  width: 350px;
+  border: 2px solid bisque;
+  margin: 20px;
+  position: relative;
+  padding-bottom: 5px;
+}
+.product img {
+  width: 250px;
+  height: 200px;
+  padding-top: 6px;
+}
+.seller {
+  padding-bottom: 10px;
+}
+.addToCart-btn {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  padding: 5px;
+  background-color: antiquewhite;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
